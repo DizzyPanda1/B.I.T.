@@ -1,0 +1,11 @@
+,n,question,type,data
+0,0,q1,slider,"[0, 5]"
+1,1,q2,multiple,"['o1', 'o2', 'o3']"
+2,2,q3,slider,"[0, 5]"
+3,3,q4,selectbox,"['b1', 'b2', 'b3']"
+4,4,q5,slider,"[0, 5]"
+5,5,q6,multiple,"['o1', 'o2', 'o3']"
+6,6,q7,slider,"[0, 5]"
+7,7,q8,selectbox,"['b1', 'b2', 'b3']"
+8,8,q9,slider,"[0, 5]"
+9,9,q10,slider,"[0, 5]"
